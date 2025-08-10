@@ -1,52 +1,52 @@
 [
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2026,
-        "predicted_price": 2583333
+        "predicted_price": 4000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2027,
-        "predicted_price": 2683333
+        "predicted_price": 5000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2028,
-        "predicted_price": 2783333
+        "predicted_price": 6000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2029,
-        "predicted_price": 2883333
+        "predicted_price": 7000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2030,
-        "predicted_price": 2983333
+        "predicted_price": 8000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2031,
-        "predicted_price": 3083333
+        "predicted_price": 9000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2032,
-        "predicted_price": 3183333
+        "predicted_price": 10000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2033,
-        "predicted_price": 3283333
+        "predicted_price": 11000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2034,
-        "predicted_price": 3383333
+        "predicted_price": 12000
     },
     {
-        "house_no": "012",
+        "house_no": "666",
         "year": 2035,
-        "predicted_price": 3483333
+        "predicted_price": 13000
     }
 ]

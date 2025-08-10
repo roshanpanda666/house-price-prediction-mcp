@@ -9,7 +9,7 @@ from push_to_predicted_cluster.push import push_predictions_to_db
 
 def predict_prices():
     print("📡 Fetching data from backend...")
-    response = requests.get("http://127.0.0.1:8000/")
+    response = requests.get("https://house-price-prediction-mcp.onrender.com/")
     data = response.json()
     print("✅ Data fetched!")
 
